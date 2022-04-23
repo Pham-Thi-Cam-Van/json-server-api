@@ -1,5 +1,4 @@
-{
-    "myQuestions": [
+[
         {
           "question": "Javascript is _________ language.",
           "answers": {
@@ -59,4 +58,3 @@
           "correctAnswer": "b"
         }
     ]
-}
